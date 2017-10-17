@@ -1,4 +1,6 @@
 
+# GRAPHQL SERVER USING NODE JS ES6 AND MONGO DB
+
 # HOW TO INSTALL SERVER
 - Just run command line:
 - npm i
